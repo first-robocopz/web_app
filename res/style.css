@@ -1,0 +1,61 @@
+/* BODY */
+
+body {
+	padding: 0; /* Gets rid of the automatic padding */
+	margin: 0;	/*	on HTML documents */
+	font-family: Lucida Grande, Helvetica, Arial, sans-serif;
+	font-size: 18px;
+    background-color: #181818;
+	z-index: 0;
+}
+
+/* CONTENT */
+
+#content {
+	width: 750px;
+	padding-top: 70px;
+	padding-bottom: 30px;
+	padding-left: 20%;
+	padding-right: 20%;
+	margin-left: auto;
+	margin-right: auto;
+    color: white;
+	background-color: #111;
+	z-index: 2;
+}
+
+#content img {
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+
+#content a {
+	color: #CCF;
+	text-decoration: none;
+}
+
+#content a:hover {
+	color: blue;
+}
+
+/* FOOTER */
+
+#footer {
+  top: 0;
+  width: 100%;
+  height: 80px;
+  text-align: center;
+  padding-top: 15px;
+  /* Adds the transparent background */
+  background-color: black;
+  color: #AEAEAE;
+}
+
+#footer a {
+	color: #CCF;
+	text-decoration: none;
+}
+
+#footer a:hover {
+	color: blue;
+}
