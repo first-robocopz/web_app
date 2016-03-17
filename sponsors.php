@@ -4,12 +4,12 @@
 <?php include 'res/head.html';?>
 
 <body>
-	<div style="padding-bottom:400px;z-index:1;background-image:url('img/banner1.jpg')"/>
+	<div style="padding-top:350px;background-image:url('img/banner1.jpg')"/>
 
 	
 	<?php include 'res/navbar.html';?>
 	
-	<div style="background-color:#181818;z-index:1;">
+	<div style="background-color:#181818;">
     <div id="content">
 		<p>
 		We are The Fayette FIRST Robotics team, RoboCopz, a group of motivated young men and women who attend Fayette County High schools with a deep interest in STEM fields

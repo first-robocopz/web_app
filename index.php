@@ -4,11 +4,11 @@
 <?php include 'res/head.html';?>
 
 <body>
-	<div style="padding-bottom:400px;z-index:1;background-image:url('img/banner0.jpg')"/>
+	<div style="padding-top:350px;background-image:url('img/banner0.jpg')"/>
 
 	<?php include 'res/navbar.html';?>
 
-	<div style="background-color:#181818;z-index:1;">
+	<div style="background-color:#181818;">
 		<div id="content">
 			<h3>Who are the Robocops?</h3>
 			<p>
