@@ -10,12 +10,12 @@
 
 	<div style="background-color:#181818;">
 		<div id="content">
-			<h3>Who are the Robocops?</h3>
+			<h3>Who are the Robocopz?</h3>
 			<p>
 			The Fayette FIRST Robotics Team was formed in 2011. The team is comprised of all five high schools in Fayette County: Whitewater, McIntosh, Starr's Mill, Sandy Creek and Fayette County.
 			The team has approximately 20 students who meet twice a week to build and program a robot for competitions.  They compete in two nationally organized competitions: FIRST Tech Challenge
 			(FTC) and FIRST Robotics Competition (FRC).  Additionally, the team students help to mentor middle school and grade school teams competing in FIRST Lego League competitions.
-			</p><br/><br/><br/><p>
+			</p><br/><br/><p>
 			FIRST is a national non-profit organization which stands for "For Inspiration and Recognition of Science and Technology".
 			This national charter was organized to get our youth interested in science and technology and they lay out the ground rules for each competition.
 			The Fayette FIRST Team is a great place to get involved and they are truly our best and brightest technological ambassadors in the community.
@@ -23,9 +23,9 @@
 			<br/><br/><br/>
 		</div>
 	</div>
-
-    <?php include 'res/footer.html';?>
 </body>
+    <?php include 'res/footer.html';?>
+
 
 <script type="text/javascript" src="https://code.jquery.com/jquery-latest.min.js"></script>
 <script>

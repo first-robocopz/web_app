@@ -10,7 +10,7 @@
 	<?php include 'res/navbar.html';?>
 	
 	<div style="background-color:#181818;">
-    <div id="content">
+    	<div id="content">
 		<p>
 		We are The Fayette FIRST Robotics team, RoboCopz, a group of motivated young men and women who attend Fayette County High schools with a deep interest in STEM fields
 		(Science, Technology, Engineering and Mathematics). The RoboCopz are hoping you might be interested in sponsoring our team for the 2015-2016 season.
@@ -37,10 +37,12 @@
 		Your donation will help ensure the future of the RoboCopz. Our goal for the 2015-2016 year is to place in the top ten in our division in all of our competitions.
 		For the 2015 Fall Competition we are FTC Team #3931 and in the Spring of 2016 we are FRC Team #3344.
 		</p><br/><br/><br/>
-
+		</div>
+	</div>
+</body>
     <?php include 'res/footer.html';?>
     
-</body>
+
 
 <script type="text/javascript" src="https://code.jquery.com/jquery-latest.min.js"></script>
 <script>
