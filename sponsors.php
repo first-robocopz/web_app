@@ -8,14 +8,7 @@
 	<img src="img/splash_0_1920w_opt.jpg" width="100%" height="400px" style="position:fixed;z-index:-1;" border="0"/>
 	</div>
 	
-	<div id="nav-container">
-		<div id="navigation">
-            <a href="index.html">Robocopz</a>
-            <a href="team.html">The Team</a>
-			<a href="awards.html">Awards</a>
-            <a href="sponsors.html">Our Sponsors</a>
-		</div>
-	</div>
+	<?php include 'res/navbar.html';?>
 	
 	<div style="background-color:#181818;z-index:1;">
     <div id="content">
