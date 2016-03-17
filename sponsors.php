@@ -4,9 +4,8 @@
 <?php include 'res/head.html';?>
 
 <body>
-	<div style="padding-bottom:400px;z-index:1;">
-	<img src="img/splash_0_1920w_opt.jpg" width="100%" height="400px" style="position:fixed;z-index:-1;" border="0"/>
-	</div>
+	<div style="padding-bottom:400px;z-index:1;background-image:url('img/banner1.jpg')"/>
+
 	
 	<?php include 'res/navbar.html';?>
 	
@@ -37,15 +36,7 @@
 		</p><p>
 		Your donation will help ensure the future of the RoboCopz. Our goal for the 2015-2016 year is to place in the top ten in our division in all of our competitions.
 		For the 2015 Fall Competition we are FTC Team #3931 and in the Spring of 2016 we are FRC Team #3344.
-		</p>
-        <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-        <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-        <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-        <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-        <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-        <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-    </div>
-	</div>
+		</p><br/><br/><br/>
 
     <?php include 'res/footer.html';?>
     

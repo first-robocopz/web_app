@@ -4,9 +4,7 @@
 <?php include 'res/head.html';?>
 
 <body>
-	<div style="padding-bottom:400px;z-index:1;">
-	<img src="img/divider0.png" width="100%" height="100%" style="position:fixed;z-index:-1;" border="0"/>
-  </div>
+	<div style="padding-bottom:400px;z-index:1;background-image:url('img/banner0.jpg')"/>
 
 	<?php include 'res/navbar.html';?>
 
@@ -23,12 +21,8 @@
 			The Fayette FIRST Team is a great place to get involved and they are truly our best and brightest technological ambassadors in the community.
 			</p>
 			<br/><br/><br/>
-			<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-			<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 		</div>
 	</div>
-
-	<div style="padding-bottom:400px;z-index:1;"></div>
 
     <?php include 'res/footer.html';?>
 </body>
