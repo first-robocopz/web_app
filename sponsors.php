@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
 
-<?php include 'res/navbar.html';?>
+<?php include 'res/head.html';?>
 
 <body>
 	<div style="padding-bottom:400px;z-index:1;">
