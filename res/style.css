@@ -81,3 +81,20 @@ body {
 #footer a:hover {
 	color: blue;
 }
+
+/*TABLE*/
+
+
+#table, th, td {
+    border: 1px solid #CCF;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: left;
+	
+}
+img {
+	 float: right;
+	 }
+
